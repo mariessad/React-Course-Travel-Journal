@@ -28,5 +28,11 @@ h1 {
 .travel--icon {
   width: 40px;
   padding-bottom: 15px;
-  padding-right: 5px;
+  padding-right: 8px;
+}
+
+/* travel component */
+
+.travel--container {
+  display: flex;
 }
