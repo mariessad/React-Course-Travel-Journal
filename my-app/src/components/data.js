@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    image: "../public/images/canada.jpg",
+    image: "canada.jpg",
     country: "Canada",
     link: "https://goo.gl/maps/jUc53afMBD47NEFt9",
     location: "Niagra Falls",
@@ -10,7 +10,7 @@ export default [
   },
   {
     id: 2,
-    image: "../public/images/tokyo.jpg",
+    image: "tokyo.jpg",
     country: "Japan",
     link: "https://goo.gl/maps/1LJMfFChobpVyiTcA",
     location: "Tokyo",
@@ -19,7 +19,7 @@ export default [
   },
   {
     id: 3,
-    image: "../public/images/kuai.jpg",
+    image: "kuai.jpg",
     country: "Hawaii",
     link: "https://goo.gl/maps/1LJMfFChobpVyiTcA",
     location: "Island of Kuai",
@@ -28,7 +28,7 @@ export default [
   },
   {
     id: 4,
-    image: "../public/images/paris.jpg",
+    image: "paris.jpg",
     country: "France",
     link: "https://goo.gl/maps/YBtAs1FDFfjRnNw6A",
     location: "Paris",

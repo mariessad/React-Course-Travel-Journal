@@ -1,15 +1,17 @@
-import logo from "./logo.svg";
+import React from "react";
 import "./App.css";
 import Navbar from "./components/Navbar";
 import Travel from "./components/Location";
+import data from "./components/data";
 
-function App() {
+export default function App() {
+  const TravelLoc = data.map((loc) => {
+    return <Travel key={loc.id} loc={loc} />;
+  });
   return (
     <div className="App">
       <Navbar />
-      <Travel />
+      <section>{TravelLoc}</section>
     </div>
   );
 }
-
-export default App;
