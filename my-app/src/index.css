@@ -75,3 +75,8 @@ h1 {
   font-weight: bold;
   margin-bottom: 0.5rem;
 }
+.travel--description {
+  width: 450px;
+  text-align: left;
+  font-size: smaller;
+}
