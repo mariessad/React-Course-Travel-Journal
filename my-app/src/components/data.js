@@ -2,7 +2,7 @@ export default [
   {
     id: 1,
     image: "canada.jpg",
-    country: "Canada",
+    country: "CANADA",
     link: "https://goo.gl/maps/jUc53afMBD47NEFt9",
     location: "Niagra Falls",
     date: "Summer 2002",
@@ -12,7 +12,7 @@ export default [
   {
     id: 2,
     image: "tokyo.jpg",
-    country: "Japan",
+    country: "JAPAN",
     link: "https://goo.gl/maps/1LJMfFChobpVyiTcA",
     location: "Tokyo",
     date: "Winter 2006",
@@ -22,7 +22,7 @@ export default [
   {
     id: 3,
     image: "kauai.jpg",
-    country: "Hawaii",
+    country: "HAWAII",
     link: "https://goo.gl/maps/1LJMfFChobpVyiTcA",
     location: "Island of Kauai",
     date: "Summer 2012",
@@ -32,7 +32,7 @@ export default [
   {
     id: 4,
     image: "paris.jpg",
-    country: "France",
+    country: "FRANCE",
     link: "https://goo.gl/maps/YBtAs1FDFfjRnNw6A",
     location: "Paris",
     date: "Winter 2020",
