@@ -1,0 +1,38 @@
+export default [
+  {
+    id: 1,
+    image: "../public/images/canada.jpg",
+    country: "Canada",
+    link: "https://goo.gl/maps/jUc53afMBD47NEFt9",
+    location: "Niagra Falls",
+    date: "summer",
+    description: "paragraph of details here",
+  },
+  {
+    id: 2,
+    image: "../public/images/tokyo.jpg",
+    country: "Japan",
+    link: "https://goo.gl/maps/1LJMfFChobpVyiTcA",
+    location: "Tokyo",
+    date: "Winter 2006",
+    description: "paragraph of details here",
+  },
+  {
+    id: 3,
+    image: "../public/images/kuai.jpg",
+    country: "Hawaii",
+    link: "https://goo.gl/maps/1LJMfFChobpVyiTcA",
+    location: "Island of Kuai",
+    date: "summer 2012",
+    description: "paragraph of details here",
+  },
+  {
+    id: 4,
+    image: "../public/images/paris.jpg",
+    country: "France",
+    link: "https://goo.gl/maps/YBtAs1FDFfjRnNw6A",
+    location: "Paris",
+    date: "Winter 2020",
+    description: "paragraph of details here",
+  },
+];
