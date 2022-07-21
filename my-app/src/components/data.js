@@ -5,7 +5,7 @@ export default [
     country: "Canada",
     link: "https://goo.gl/maps/jUc53afMBD47NEFt9",
     location: "Niagra Falls",
-    date: "summer",
+    date: "Summer 2002",
     description: "paragraph of details here",
   },
   {
@@ -23,7 +23,7 @@ export default [
     country: "Hawaii",
     link: "https://goo.gl/maps/1LJMfFChobpVyiTcA",
     location: "Island of Kuai",
-    date: "summer 2012",
+    date: "Summer 2012",
     description: "paragraph of details here",
   },
   {
